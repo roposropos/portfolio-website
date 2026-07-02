@@ -3,7 +3,7 @@
 
 # Billingual Portfolio Website
 
-**Bilingual technical portfolio for projects, CV, GitHub repositories and contact materials - built with Next.js, React and TypeScript.**
+**Technical portfolio for projects, CV, GitHub repositories and contact materials - built with Next.js, React and TypeScript.**
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-16.2.9-0c0a14?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16">
@@ -21,8 +21,6 @@
   <a href="#quick-start">Quick start</a> |
   <a href="#deployment">Deployment</a>
 </p>
-
-![Portfolio visual preview](public/assets/portfolio-hero-workspace.png)
 
 </div>
 
