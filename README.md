@@ -17,10 +17,6 @@ The website presents selected projects from areas such as desktop applications, 
 https://portfoliotworekrobert.vercel.app/pl
 ```
 
-## Author
-
-- Robert Tworek
-
 ## Screenshots
 
 ### Home section
