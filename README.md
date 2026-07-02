@@ -1,4 +1,4 @@
-# Robert Tworek Portfolio
+# Bilingual Portfolio Website
 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
