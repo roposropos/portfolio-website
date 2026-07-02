@@ -1,7 +1,7 @@
 <div align="center">
   <img src="app/icon.svg" width="84" alt="RT logo">
 
-# Robert Tworek Portfolio
+# Billingual Portfolio Website
 
 **Bilingual technical portfolio for projects, CV, GitHub repositories and contact materials - built with Next.js, React and TypeScript.**
 
