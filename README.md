@@ -1,3 +1,4 @@
+<div align="center">
 # Billingual Portfolio Website
 
 **Technical portfolio for projects, CV, GitHub repositories and contact materials - built with Next.js, React and TypeScript.**
