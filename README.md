@@ -33,8 +33,6 @@
   <a href="#deployment">Deployment</a>
 </p>
 
-<img src="public/assets/portfolio-hero-workspace.png" alt="Portfolio visual preview" width="100%">
-
 </div>
 
 ## About
