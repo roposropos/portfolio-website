@@ -130,17 +130,3 @@ GITHUB_TOKEN=optional_github_token
 ```
 
 Vercel supports Next.js with zero-configuration deployment and can connect directly to a Git repository. After deployment, the production URL can be added to the repository description, GitHub profile README and CV.
-
-## Repository description
-
-Suggested GitHub repository description:
-
-```text
-Personal bilingual portfolio website built with Next.js, React, TypeScript and Tailwind CSS.
-```
-
-Suggested repository topics:
-
-```text
-nextjs react typescript tailwindcss portfolio personal-website github-api bilingual
-```
