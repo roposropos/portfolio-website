@@ -178,9 +178,3 @@ The project is ready for a standard Vercel deployment.
 3. Set `NEXT_PUBLIC_SITE_URL` to the production domain.
 4. Optionally add `GITHUB_TOKEN`.
 5. Verify `/pl`, `/en`, `/sitemap.xml`, `/robots.txt` and `/api/og` after deployment.
-
-<p>
-  <a href="https://github.com/roposropos">GitHub</a> |
-  <a href="https://linkedin.com/in/tworekrobert">LinkedIn</a> |
-  <a href="mailto:rtworek24@gmail.com">Email</a>
-</p>
